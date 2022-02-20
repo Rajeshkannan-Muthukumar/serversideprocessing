@@ -32,7 +32,7 @@ Mention the path of the website in urls.py.
 
 
 ### Step 5:
-Publish the website in the given URL. http://rajeshkannan.student.saveetha.in//
+Publish the website in the given URL. http://rajeshkannan.student.saveetha.in
 
 
 
